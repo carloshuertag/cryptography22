@@ -1,0 +1,23 @@
+{
+    "name": "cryptography22",
+    "version": "1.0.0",
+    "description": "Cryptography course examples and excercises",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \\\"Error: no test specified\\\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/huerta2502/cryptography22.git"
+    },
+    "keywords": [
+        "Cryptography"
+    ],
+    "author": "chuertag",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/huerta2502/cryptography22/issues"
+    },
+    "homepage": "https://github.com/huerta2502/cryptography22#readme",
+    "type": "module"
+}
