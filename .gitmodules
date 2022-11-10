@@ -1,0 +1,3 @@
+[submodule "EncDecDES"]
+	path = EncDecDES
+	url = https://github.com/huerta2502/EncDecDES.git
